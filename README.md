@@ -1,16 +1,16 @@
-#whyme [![NPM version]]
+#whyme 
 
 >a node based cmd tool for testing how to made a cmd toll
 
 
 ## Install with [npm]
 
-'''bash
+```Shell  
 sudo npm install whyme -g 
-'''
+```
 
 ## Usage
 
-'''bash 
+```Shell  
 whyme     
-'''
+```
