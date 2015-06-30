@@ -1,0 +1,25 @@
+{
+  "name": "whyme",
+  "version": "1.0.0",
+  "description": "a tool for test a node based cmd tool",
+  "main": "index.js",
+  "preferGlobal":"true",
+  "bin": {"whyme":"index.js"},		 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cmd",
+    "node"
+  ],
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/ericever/whyme.git"
+  },
+  "author": "ericever",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1"
+  }, 
+  "engines":{"node":"*"}
+}
